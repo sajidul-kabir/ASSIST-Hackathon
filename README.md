@@ -1,6 +1,6 @@
 # ASSIST- An web application that caters to people’s mental health and psychiatric issues. 
 ### Winning Submission for MIST Inter University ICT Innovation Fest 2021 Hackathon. Through **ASSIST**, people are able to seek professional help from qualified psychiatrists and consultants.
-### [Visit the Webapp Here](https://assist-hack.herokuapp.com/)
+### [Visit the Webapp Here](https://assist-2r5m.onrender.com/)
 ### If you want to check out the code structure that is deployed to heroku; visit this [repo](https://github.com/sajidul-kabir/assist-heroku-deploy)
 </br>
 
